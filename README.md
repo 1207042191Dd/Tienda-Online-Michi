@@ -1,10 +1,19 @@
 # Tarea 2: Consumir una API RESTful en formato JSON en Android
 1. Diseño de Aplicación
-![WhatsApp Image 2024-12-23 at 22 07 55_74ee1b74](https://github.com/user-attachments/assets/9046795b-4fc8-4744-bf87-5b3e6044c627)
+![image](https://github.com/user-attachments/assets/a0639bde-99a6-4494-9546-8c2f5cf3e604)
+
 2.Funcionamiento
-![WhatsApp Image 2024-12-23 at 22 21 13_c1db534b](https://github.com/user-attachments/assets/a3887967-a9bb-4e90-8ae8-48b231e3da6c)
-![WhatsApp Image 2024-12-23 at 22 21 13_dcccf00f](https://github.com/user-attachments/assets/878a9783-7c98-44d9-83e2-7ba7e49d621c)
-![WhatsApp Image 2024-12-23 at 22 20 40_e3101821](https://github.com/user-attachments/assets/30237d24-c189-4af1-baed-b7bd2637d726)
+Muestra y enlista productos
+![WhatsApp Image 2024-12-27 at 22 13 07_6d8ca3eb](https://github.com/user-attachments/assets/60280079-98fe-4cad-8f82-522eaeadae99)
+
+Evento Click abre actividad 2 y enviar los datos del producto
+![WhatsApp Image 2024-12-27 at 22 13 07_7dbf819d](https://github.com/user-attachments/assets/de2590ec-97c8-42b0-b3d5-b99a47f2ac0b)
+
+
+
+Mostrar el producto seleccionado con la opción de pagar
+![WhatsApp Image 2024-12-27 at 22 13 06_ca7f39e5](https://github.com/user-attachments/assets/a1b864c3-a34f-45d6-bf6d-571195fb5b16)
+
 
 
 
